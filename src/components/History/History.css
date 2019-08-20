@@ -1,0 +1,8 @@
+.History {
+  border: 1px solid #d3d3d3;
+}
+
+.History-video-item {
+  justify-content: space-between;
+  padding-right: 15px;
+}

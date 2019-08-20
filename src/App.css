@@ -1,0 +1,15 @@
+.App {
+  width: 100%;
+}
+
+.Grid {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Item {
+  width: 100%;
+  padding: 16px;
+}

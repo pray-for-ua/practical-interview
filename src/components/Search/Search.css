@@ -1,0 +1,28 @@
+.Search {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.Search-wrapper {
+  position: relative;
+  width: 75%;
+}
+
+.Search-wrapper input {
+  width: 100%;
+  padding: 0 5px;
+  box-sizing: border-box;
+  outline: none;
+  height: 30px;
+  font-size: 16px;
+  border-radius: 2px;
+  border: 1px solid #d3d3d3;
+}
+
+.Search-VideoList {
+  position: absolute;
+  padding-top: 5px;
+  top: 100%;
+  left: 0;
+}
